@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates a common coding error: an infinite loop caused by a missing increment in a conditional statement. The `BuggyLoop.java` file shows the code with the bug, while `FixedLoop.java` provides the corrected version. This example highlights the importance of careful code review and testing to prevent such issues.
