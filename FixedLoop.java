@@ -1,0 +1,14 @@
+public class MyClass {
+    public static void main(String[] args) {
+        int i = 0;
+        while (i < 10) {
+            if (i == 5) {
+                // The increment is added here.
+                i++;
+                continue; // Continue to the next iteration
+            }
+            System.out.println(i);
+            i++;
+        }
+    }
+}
